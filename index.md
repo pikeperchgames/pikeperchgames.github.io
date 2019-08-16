@@ -1,8 +1,5 @@
 
-
-
-
-# Pikeperchgames - mobile indie developer.
+# Pikeperchgames - mobile indie developer
 
 ## Our games: 
 
@@ -18,5 +15,7 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - A potion system that allows you to solve a difficult situation.
  - More than a dozen unique enemy types.
  - And much more.
+
+ **Release date - ** ***Comming Soon*** 
 
 [Privacy Policy](/bravehero/docs/privacypolicy.html)
