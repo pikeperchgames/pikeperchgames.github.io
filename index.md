@@ -19,4 +19,4 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - More than a dozen unique enemy types.
  - And much more.
 
-[Privacy Policy](pikeperchgames.github.io/bravehero/docs/privacypolicy.html)
+[Privacy Policy](/bravehero/docs/privacypolicy.html)
