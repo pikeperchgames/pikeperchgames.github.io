@@ -1,5 +1,4 @@
 
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 # Pikeperchgames - mobile indie developer
 
@@ -20,6 +19,6 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - More than a dozen unique enemy types.
  - And much more.
 
- **Release date **  -  ***Comming Soon*** 
+ **Release date  -  Comming Soon** 
 
 [Privacy Policy](/bravehero/docs/privacypolicy.html)
