@@ -5,6 +5,8 @@
 
 ### BraveHero - strategy with roguelike elements
 
+![Logo BraveHero](/bravehero/img/BHlogo1.png)
+
 The kingdom was overrun by terrible monsters. The monarch promises untold wealth to those who will reach the source of the invasion and destroy it.
 Lead a dynasty of heroes that sacrifice themselves from generation to generation in the hope of getting rid of this filth.
 
@@ -16,6 +18,6 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - More than a dozen unique enemy types.
  - And much more.
 
- **Release date - ** ***Comming Soon*** 
+ **Release date **  -  ***Comming Soon*** 
 
 [Privacy Policy](/bravehero/docs/privacypolicy.html)
