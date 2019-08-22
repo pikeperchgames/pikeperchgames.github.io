@@ -1,4 +1,12 @@
-
+<html>
+<head>
+<meta name="google-site-verification" content="422CstJpYdmUyCi9xZKZkjwOeBuqZCClioVb-R6WaGs" />
+<title> Мой заголовок </title>
+</head> 
+<body>
+содержание страницы
+</body>
+</html>
 
 # Pikeperchgames - mobile indie developer
 
