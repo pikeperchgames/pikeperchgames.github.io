@@ -20,6 +20,7 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - And much more.
 
  **Release date  -  21.08.2019**
+ 
  **Download:** [Google Play](https://play.google.com/store/apps/details?id=com.PikePerch.BH)
 
 [Privacy Policy](/bravehero/docs/privacypolicy.html)

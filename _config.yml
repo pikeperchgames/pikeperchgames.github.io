@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: pikeperch
 description: indie game developer
-title-img: /media/PIKEPERCH.png
 logo: /media/Pikeperch2.png
-navbar-img: "/media/PIKEPERCH.png"
+navbar-img: /media/PIKEPERCH.png
