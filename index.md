@@ -1,7 +1,4 @@
-<html>
-<head>
-<meta name="google-site-verification" content="422CstJpYdmUyCi9xZKZkjwOeBuqZCClioVb-R6WaGs" />
-</head>
+
 
 # Pikeperchgames - mobile indie developer
 
