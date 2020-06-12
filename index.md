@@ -24,3 +24,11 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  **Download:** [Google Play](https://play.google.com/store/apps/details?id=com.PikePerch.BH)
 
 [Privacy Policy](/bravehero/docs/privacypolicy.html)
+
+
+### PostOutbreak - pixel art platformer
+
+![Logo PostOutbreak](/postoutbreak/media/POscreenshot1.png)
+
+This game was developed in a week as a submisson for "[Cowboy's 100 Dollar Jam](https://itch.io/jam/cowboys-100-dollar-jam/rate/613559)."
+
