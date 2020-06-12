@@ -17,7 +17,7 @@ Brave Hero is a strategy with Roguelike elements. Its key features are:
  - Several locations with unique backgrounds, mobs and bosses.
  - A potion system that allows you to solve a difficult situation.
  - More than a dozen unique enemy types.
- - And much more(1).
+ - And much more.
 
  **Release date  -  21.08.2019**
  
