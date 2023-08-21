@@ -14,8 +14,8 @@
 
 An arcade game about Rift’s crime and his fairy Fay. They have just robbed the Elf’s caravan. Help is on the way! Defend your booty from nasty colored caps! You're not a hero in this story… and are you not a protagonist?! But who are you? A faithful sidekick fairy who helps without hints. Heal, give ammo and do anything for saving life of your partner.
 
-This game was developed over the weekend as a submission for the "[GMTK 2023 Jam](https://itch.io/jam/gmtk-2023/rate/2162776)"
-And updated as a submission for "[Post Jam "Jam" #7](https://itch.io/jam/post-jam-jam-7/rate/2162776)"
+This game was developed over the weekend as a submission for the [GMTK 2023 Jam](https://itch.io/jam/gmtk-2023/rate/2162776).\
+And updated as a submission for [Post Jam "Jam" #7](https://itch.io/jam/post-jam-jam-7/rate/2162776).
 
 **Release date - 09.07.2023**
 
@@ -28,7 +28,7 @@ And updated as a submission for "[Post Jam "Jam" #7](https://itch.io/jam/post-ja
 
 A roll of the dice changes your next attack. Use this power wisely.
 
-This game was developed over the weekend as a submission for the "[GMTK 2022 Jam](https://itch.io/jam/gmtk-jam-2022/rate/1624674)"
+This game was developed over the weekend as a submission for the [GMTK 2022 Jam](https://itch.io/jam/gmtk-jam-2022/rate/1624674)
 
 **Release date - 17.07.2022**
 
@@ -40,7 +40,7 @@ This game was developed over the weekend as a submission for the "[GMTK 2022 Jam
 
 ![Logo PostOutbreak](/games/postoutbreak/media/POscreenshot1.png)
 
-This game was developed in a week as a submission for the "[Cowboy's 100 Dollar Jam](https://itch.io/jam/cowboys-100-dollar-jam/rate/613559)."
+This game was developed in a week as a submission for the [Cowboy's 100 Dollar Jam](https://itch.io/jam/cowboys-100-dollar-jam/rate/613559).
 
 **Release date - 17.04.2020**
 
@@ -51,11 +51,9 @@ This game was developed in a week as a submission for the "[Cowboy's 100 Dollar 
 
 ![Logo BraveHero](/games/bravehero/img/BHlogo1.png)
 
-The kingdom was overrun by terrible monsters. The monarch promises untold wealth to those who will reach the source of the invasion and destroy it.
-Lead a dynasty of heroes that sacrifice themselves from generation to generation in the hope of getting rid of this filth.
+The kingdom was overrun by terrible monsters. The monarch promises untold wealth to those who will reach the source of the invasion and destroy it. Lead a dynasty of heroes that sacrifice themselves from generation to generation in the hope of getting rid of this filth.
 
-Brave Hero is a strategy with Roguelike elements. Its key features are:
-
+Brave Hero is a strategy with Roguelike elements. Its key features are:\
  - Dozens of loot types with various effects.
  - Several locations with unique backgrounds, mobs and bosses.
  - A potion system that allows you to solve a difficult situation.
